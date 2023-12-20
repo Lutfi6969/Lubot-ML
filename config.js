@@ -18,7 +18,7 @@ global.namebot = '​Lubot-ML'
 global.wm = '© Luthfi'
 global.stickpack = 'Luthfi'
 global.stickauth = '© Luthfi Ganteng'
-global.fotonya = 'https://telegra.ph/file/83b522fd80b660705d1cd.jpg'
+global.fotonya = 'https://telegra.ph/file/f82a7e100758c82e3a123.png'
 // Link Sosmed
 global.sig = 'https://www.instagram.com/xyroinee'
 global.sgh = 'https://github.com/Xyroinee'
