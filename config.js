@@ -20,13 +20,13 @@ global.stickpack = 'Luthfi'
 global.stickauth = '© Luthfi Ganteng'
 global.fotonya = 'https://telegra.ph/file/f82a7e100758c82e3a123.png'
 // Link Sosmed
-global.sig = 'https://www.instagram.com/xyroinee'
+global.sig = 'https://www.instagram.com/luth.fi9869/'
 global.sgh = 'https://github.com/Xyroinee'
 global.sgc = 'https://chat.whatsapp.com/'
 // Donasi
 global.psaweria = 'https://saweria.co/Zeltoria'
 global.ptrakterr = 'https://trakteer.id/zeltoria'
-global.povo = '0896-1075-0607'
+global.povo = '089644048756'
 // Info Wait
 global.wait = 'Sedang Di Proses, Mohon Tunggu....'
 global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
