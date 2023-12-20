@@ -22,7 +22,7 @@ global.fotonya = 'https://telegra.ph/file/f82a7e100758c82e3a123.png'
 // Link Sosmed
 global.sig = 'https://www.instagram.com/luth.fi9869/'
 global.sgh = 'https://github.com/Xyroinee'
-global.sgc = 'https://chat.whatsapp.com/'
+global.sgc = 'wa.me/62895418208760'
 // Donasi
 global.psaweria = 'https://saweria.co/Zeltoria'
 global.ptrakterr = 'https://trakteer.id/zeltoria'
