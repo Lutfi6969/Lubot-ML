@@ -1,4 +1,4 @@
-import { watchFile, unwatchFile } from 'fs'
+topimport { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 const more = String.fromCharCode(8206)
@@ -21,7 +21,7 @@ global.stickauth = '© Luthfi Ganteng'
 global.fotonya = 'https://telegra.ph/file/f82a7e100758c82e3a123.png'
 // Link Sosmed
 global.sig = 'https://www.instagram.com/luth.fi9869/'
-global.sgh = 'https://github.com/Xyroinee'
+global.sgh = 'https://github.com/lutfi6969'
 global.sgc = 'https://chat.whatsapp.com/Ea7QFT3VVDnF3qegUlgidz'
 // Donasi
 global.psaweria = 'https://saweria.co/Zeltoria'
